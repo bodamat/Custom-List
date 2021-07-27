@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/ListTask.dir/main.cpp.o CMakeFiles/ListTask.dir/List.cpp.o -o ListTask.exe -Wl,--out-implib,libListTask.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

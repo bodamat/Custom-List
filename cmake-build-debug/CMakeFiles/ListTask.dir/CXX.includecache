@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/bomtv/CLionProjects/ListTask/List.h
+iostream
+/cygdrive/c/Users/bomtv/CLionProjects/ListTask/iostream
+
+/cygdrive/c/Users/bomtv/CLionProjects/ListTask/main.cpp
+iostream
+-
+List.h
+/cygdrive/c/Users/bomtv/CLionProjects/ListTask/List.h
+
